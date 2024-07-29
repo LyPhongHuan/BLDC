@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Member From Class: ClassName=MCU Member=C20
+Removed Member From Class: ClassName=MCU Member=C21
+Removed Member From Class: ClassName=MCU Member=R29
+Change Component Footprint: Designator=X2 Old Footprint=XTAL-49S/SMD New Footprint=XT4 SMD 3225
+Change component parameters: Designator = "X2" ("X2"); Footprint = "XTAL-49S/SMD"; UniqueID = "\ESHUONQB" ("\ESHUONQB")
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-4
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_7 Pin=X2-3
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetU1_8 Pin=X2-1
+Added Net: Name=NetU1_8
+Added Room: Name=MCU
+Added Room: Name=phase

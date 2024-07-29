@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C1 Old Footprint=SM-CAP-0805 New Footprint=CN-SMD-1206
+Change Component Footprint: Designator=C7 Old Footprint=SM-CAP-0805 New Footprint=CN-SMD-1206
+Change Component Footprint: Designator=C13 Old Footprint=SM-CAP-0805 New Footprint=CN-SMD-1206
+Added Pin To Net: NetName=LED_DIR Pin=U1-11

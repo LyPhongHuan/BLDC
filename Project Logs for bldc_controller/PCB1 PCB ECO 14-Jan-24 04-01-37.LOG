@@ -1,0 +1,3 @@
+Added Component: Designator=D?(SOD-123)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=phase Member=Component D? Diode  Schottky _1

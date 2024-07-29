@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PHASE-B Pin=D5-1
+Removed Pin From Net: NetName=VCC Pin=D5-2
+Removed Pin From Net: NetName=P_GND Pin=D6-1
+Removed Pin From Net: NetName=PHASE-B Pin=D6-2
+Removed Pin From Net: NetName=PHASE-C Pin=D8-1
+Removed Pin From Net: NetName=VCC Pin=D8-2
+Removed Pin From Net: NetName=P_GND Pin=D9-1
+Removed Pin From Net: NetName=PHASE-C Pin=D9-2
+Removed Member From Class: ClassName=phase Member=D5
+Removed Member From Class: ClassName=phase Member=D6
+Removed Member From Class: ClassName=phase Member=D8
+Removed Member From Class: ClassName=phase Member=D9
+Added Component: Designator=D1(DO-214AC(SMA))
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Member To Class: ClassName=phase Member=Component D1 1N5822
+Added Room: Name=phase

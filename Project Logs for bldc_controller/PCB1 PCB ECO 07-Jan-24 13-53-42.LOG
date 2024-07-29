@@ -1,0 +1,84 @@
+Added Component: Designator=C30(CAP-8MM_HORIZONTAL)
+Added Component: Designator=C31(CAP-8MM_HORIZONTAL)
+Added Component: Designator=C32(CAP-8MM_HORIZONTAL)
+Added Component: Designator=C33(CAP-8MM_HORIZONTAL)
+Added Component: Designator=C34(SM-Cap-1206)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C35(SM-Cap-1206)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C36(SM-Cap-1206)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C37(SM-Cap-1206)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(SM-LED-0805-Red)
+Added Component: Designator=R35(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=VCC Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=VCC Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=VCC Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=+5V Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=+5V Pin=IC7-8
+Added Pin To Net: NetName=+5V Pin=R35-1
+Added Pin To Net: NetName=LED_DIR Pin=IC5-24
+Added Pin To Net: NetName=LED_DIR Pin=LED4-2
+Added Net: Name=LED_DIR
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=C37-2
+Added Pin To Net: NetName=NetC35_1 Pin=IC7-2
+Added Pin To Net: NetName=NetC35_1 Pin=R34-2
+Added Pin To Net: NetName=NetC35_1 Pin=R37-1
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=IC7-3
+Added Pin To Net: NetName=NetC35_2 Pin=R33-2
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=NetC36_1 Pin=IC5-34
+Added Pin To Net: NetName=NetC36_1 Pin=R36-2
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=NetC37_1 Pin=C37-1
+Added Pin To Net: NetName=NetC37_1 Pin=IC7-1
+Added Pin To Net: NetName=NetC37_1 Pin=R36-1
+Added Pin To Net: NetName=NetC37_1 Pin=R37-2
+Added Net: Name=NetC37_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R35-2
+Added Net: Name=NetLED4_1
+Added Member To Class: ClassName=phase Member=Component C30 16V/1000uF
+Added Member To Class: ClassName=phase Member=Component C31 16V/1000uF
+Added Member To Class: ClassName=phase Member=Component C32 16V/1000uF
+Added Member To Class: ClassName=phase Member=Component C33 16V/1000uF
+Added Member To Class: ClassName=phase Member=Component C34 1uF
+Added Member To Class: ClassName=phase Member=Component C35 1nF
+Added Member To Class: ClassName=phase Member=Component C36 1nF
+Added Member To Class: ClassName=phase Member=Component C37 100pF
+Added Member To Class: ClassName=MCU Member=Component LED4 LED SMD
+Added Member To Class: ClassName=MCU Member=Component R35 1K
+Added Member To Class: ClassName=phase Member=Component R36 1K
+Added Member To Class: ClassName=phase Member=Component R37 22K
+Added Room: Name=MCU
+Added Room: Name=phase

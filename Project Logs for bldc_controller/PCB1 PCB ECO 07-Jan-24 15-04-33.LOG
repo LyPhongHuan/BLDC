@@ -1,0 +1,9 @@
+Added Component: Designator=TP4(PW-JP)
+Added Component: Designator=TP5(PW-JP)
+Added Pin To Net: NetName=VCC Pin=TP4-1
+Added Pin To Net: NetName=GND Pin=TP5-1
+Added Member To Class: ClassName=MCU Member=Component R2 2.2K
+Added Member To Class: ClassName=phase Member=Component TP4 JP1P
+Added Member To Class: ClassName=phase Member=Component TP5 JP1P
+Added Room: Name=MCU
+Added Room: Name=phase

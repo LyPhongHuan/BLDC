@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C3 Old Footprint=CAP-ALU-SMD-5x5.5x1.4 New Footprint=CAP-ALU-SMD-F
+Change Component Footprint: Designator=C4 Old Footprint=CAP-ALU-SMD-5x5.5x1.4 New Footprint=CAP-ALU-SMD-F
+Change Component Footprint: Designator=C5 Old Footprint=CAP-ALU-SMD-5x5.5x1.4 New Footprint=CAP-ALU-SMD-F
+Added Room: Name=MCU
+Added Room: Name=phase

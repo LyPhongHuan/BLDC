@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=X1 Old Footprint=XT-49S/DIP New Footprint=XTAL-49S/SMD
+Change Component Footprint: Designator=X2 Old Footprint=XT-49S/DIP New Footprint=XTAL-49S/SMD
+Added Room: Name=MCU
+Added Room: Name=phase

@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+5V Pin=C28-2
+Change Component Footprint: Designator=C36 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603
+Change Component Footprint: Designator=C37 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603
+Change Component Footprint: Designator=R37 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change Component Footprint: Designator=BT2 Old Footprint=SW4_SMD 6x6x3.1 New Footprint=SW4_SMD
+Change Component Comment : Designator=C23 Old Comment=0.1uF New Comment=22uF
+Change Component Comment : Designator=C28 Old Comment=0.1uF New Comment=22uF
+Change Component Comment : Designator=C24 Old Comment=22uF New Comment=0.1uF
+Change Component Comment : Designator=C25 Old Comment=22uF New Comment=0.1uF
+Added Component: Designator=U1(TQFP32)
+Added Pin To Net: NetName=+5V Pin=C22-2
+Added Pin To Net: NetName=NetIC2_3 Pin=U1-1
+Added Pin To Net: NetName=NetIC4_3 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=+5V Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=+5V Pin=U1-6
+Added Pin To Net: NetName=XTAL2 Pin=U1-7
+Added Pin To Net: NetName=XTAL1 Pin=U1-8
+Added Pin To Net: NetName=NetC16_1 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=DIR Pin=U1-22
+Added Pin To Net: NetName=DOWN Pin=U1-23
+Added Pin To Net: NetName=UP Pin=U1-24
+Added Pin To Net: NetName=NetC9_2 Pin=U1-26
+Added Pin To Net: NetName=NetC10_2 Pin=U1-27
+Added Pin To Net: NetName=NetC11_2 Pin=U1-28
+Added Pin To Net: NetName=nRST Pin=U1-29
+Added Pin To Net: NetName=MCU_Rx Pin=U1-30
+Added Pin To Net: NetName=MCU_Tx Pin=U1-31
+Added Pin To Net: NetName=NetIC1_3 Pin=U1-32
+Change Net Name : Old Net Name=NetIC6_20 New Net Name=NetR8_1
+Change Net Name : Old Net Name=XTAL1 New Net Name=NetC21_1
+Change Net Name : Old Net Name=XTAL2 New Net Name=NetC20_1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=L1-1
+Added Pin To Net: NetName=NetC28_2 Pin=U1-18
+Added Pin To Net: NetName=NetC28_2 Pin=U1-20
+Added Net: Name=NetC28_2
+Added Member To Class: ClassName=MCU Member=Component U1 Atmega-328
+Added Room: Name=MCU
+Added Room: Name=phase

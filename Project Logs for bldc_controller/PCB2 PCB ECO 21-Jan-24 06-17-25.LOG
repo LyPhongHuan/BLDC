@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=P_GND Pin=R19-1
+Removed Pin From Net: NetName=GND Pin=R19-2
+Removed Pin From Net: NetName=P_GND Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=R20-2
+Removed Pin From Net: NetName=NetIC4_2 Pin=U1-13
+Removed Pin From Net: NetName=NetIC2_2 Pin=U1-14
+Removed Pin From Net: NetName=NetIC1_2 Pin=U1-15
+Removed Member From Class: ClassName=phase Member=R19
+Removed Member From Class: ClassName=phase Member=R20
+Added Pin To Net: NetName=NetIC4_2 Pin=U1-12
+Added Pin To Net: NetName=NetIC2_2 Pin=U1-13
+Added Pin To Net: NetName=NetIC1_2 Pin=U1-14
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Pin To Net: NetName=SCK Pin=U1-17

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC16_1 Pin=U1-10
+Added Pin To Net: NetName=NetR8_1 Pin=U1-10
+Added Member To Class: ClassName=MCU Member=Component R2 2.2K
+Added Room: Name=MCU
+Added Room: Name=phase

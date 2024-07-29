@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=MCU_Rx Pin=CONN1-1
+Removed Pin From Net: NetName=MCU_Tx Pin=CONN1-2
+Removed Pin From Net: NetName=nRST Pin=CONN1-3
+Removed Pin From Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=nRST Pin=CONN1-1
+Added Pin To Net: NetName=MCU_Rx Pin=CONN1-2
+Added Pin To Net: NetName=MCU_Tx Pin=CONN1-3

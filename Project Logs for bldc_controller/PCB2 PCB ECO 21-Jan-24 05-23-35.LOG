@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=IC5-1
+Removed Pin From Net: NetName=USB_P Pin=IC5-5
+Removed Pin From Net: NetName=USB_N Pin=IC5-6
+Removed Pin From Net: NetName=NetC18_2 Pin=IC5-13
+Removed Pin From Net: NetName=+5V Pin=IC5-16
+Added Pin To Net: NetName=GND Pin=IC5-8
+Added Pin To Net: NetName=USB_N Pin=IC5-9
+Added Pin To Net: NetName=+5V Pin=IC5-13
+Added Pin To Net: NetName=USB_P Pin=IC5-15
+Added Pin To Net: NetName=NetC18_2 Pin=IC5-16
+Added Pin To Net: NetName=NetIC5_1 Pin=IC5-1
+Added Pin To Net: NetName=NetIC5_1 Pin=X1-1
+Added Net: Name=NetIC5_1
+Added Pin To Net: NetName=NetIC5_10 Pin=IC5-10
+Added Pin To Net: NetName=NetIC5_10 Pin=LED1-2
+Added Pin To Net: NetName=NetIC5_10 Pin=R39-1
+Added Net: Name=NetIC5_10
+Added Pin To Net: NetName=NetIC5_11 Pin=IC5-11
+Added Pin To Net: NetName=NetIC5_11 Pin=LED2-2
+Added Pin To Net: NetName=NetIC5_11 Pin=R38-2
+Added Net: Name=NetIC5_11
+Added Room: Name=MCU
+Added Room: Name=phase

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LED_DIR Pin=LED3-2
+Removed Pin From Net: NetName=+5V Pin=R31-1
+Change Component Footprint: Designator=C34 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603
+Added Pin To Net: NetName=+5V Pin=LED3-1
+Added Pin To Net: NetName=LED_DIR Pin=R31-2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R31-1
+Added Net: Name=NetLED3_2

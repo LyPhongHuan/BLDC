@@ -1,0 +1,31 @@
+Removed Member From Class: ClassName=MCU Member=R6
+Removed Member From Class: ClassName=MCU Member=R11
+Change Component Comment : Designator=R2 Old Comment=12K New Comment=6.8K
+Added Component: Designator=IC4(SOIC-16)
+Added Pin To Net: NetName=GND Pin=IC4-1
+Added Pin To Net: NetName=MCU_Rx Pin=IC4-2
+Added Pin To Net: NetName=MCU_Tx Pin=IC4-3
+Added Pin To Net: NetName=NetIC4_5 Pin=IC4-5
+Added Pin To Net: NetName=NetIC4_6 Pin=IC4-6
+Added Pin To Net: NetName=NetIC4_7 Pin=IC4-7
+Added Pin To Net: NetName=NetIC4_8 Pin=IC4-8
+Added Pin To Net: NetName=NetC10_2 Pin=IC4-13
+Added Pin To Net: NetName=+5V Pin=IC4-16
+Added Member To Class: ClassName=phase Member=Component C5 10pF
+Added Member To Class: ClassName=phase Member=Component C7 10uF
+Added Member To Class: ClassName=phase Member=Component C9 10uF
+Added Member To Class: ClassName=MCU Member=Component IC4 CH340G
+Added Member To Class: ClassName=MCU Member=Component R1 2.2K
+Added Member To Class: ClassName=MCU Member=Component R2 6.8K
+Added Member To Class: ClassName=phase Member=Component R3 100R
+Added Member To Class: ClassName=phase Member=Component R4 100R
+Added Member To Class: ClassName=phase Member=Component R5 22K
+Added Member To Class: ClassName=phase Member=Component R7 22K
+Added Member To Class: ClassName=phase Member=Component R8 10K
+Added Member To Class: ClassName=phase Member=Component R9 10K
+Added Member To Class: ClassName=phase Member=Component R10 10K
+Added Member To Class: ClassName=phase Member=Component R12 6.8K
+Added Member To Class: ClassName=phase Member=Component R13 6.8K
+Added Member To Class: ClassName=phase Member=Component R15 100R
+Added Room: Name=MCU
+Added Room: Name=phase

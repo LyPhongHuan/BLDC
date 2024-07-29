@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C12 Old Footprint=SM-Cap-1206 New Footprint=CN-SMD-0805
+Change Component Footprint: Designator=C14 Old Footprint=SM-Cap-1206 New Footprint=CN-SMD-0805
+Change Component Footprint: Designator=C17 Old Footprint=SM-Cap-1206 New Footprint=CN-SMD-0805
+Added Room: Name=MCU
+Added Room: Name=phase

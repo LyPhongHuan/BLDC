@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=NetC9_2 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=NetC10_2 Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=NetC11_2 Pin=C11-2
+Removed Member From Class: ClassName=phase Member=C9
+Removed Member From Class: ClassName=phase Member=C10
+Removed Member From Class: ClassName=phase Member=C11
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetR7_2

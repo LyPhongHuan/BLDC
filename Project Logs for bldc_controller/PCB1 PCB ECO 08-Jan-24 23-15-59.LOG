@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetR8_1 Pin=U1-10
+Added Room: Name=MCU
+Added Room: Name=phase

@@ -1,0 +1,23 @@
+Added Component: Designator=IC5(SOIC-16)
+Added Pin To Net: NetName=GND Pin=IC5-1
+Added Pin To Net: NetName=USB_P Pin=IC5-5
+Added Pin To Net: NetName=USB_N Pin=IC5-6
+Added Pin To Net: NetName=+5V Pin=IC5-16
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=IC5-13
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetIC5_2 Pin=IC5-2
+Added Pin To Net: NetName=NetIC5_2 Pin=LED2-2
+Added Pin To Net: NetName=NetIC5_2 Pin=R38-2
+Added Net: Name=NetIC5_2
+Added Pin To Net: NetName=NetIC5_3 Pin=IC5-3
+Added Pin To Net: NetName=NetIC5_3 Pin=LED1-2
+Added Pin To Net: NetName=NetIC5_3 Pin=R39-1
+Added Net: Name=NetIC5_3
+Added Pin To Net: NetName=NetIC5_7 Pin=IC5-7
+Added Pin To Net: NetName=NetIC5_7 Pin=X1-2
+Added Net: Name=NetIC5_7
+Added Pin To Net: NetName=NetIC5_8 Pin=IC5-8
+Added Pin To Net: NetName=NetIC5_8 Pin=X1-1
+Added Net: Name=NetIC5_8
+Added Member To Class: ClassName=MCU Member=Component IC5 CH340G

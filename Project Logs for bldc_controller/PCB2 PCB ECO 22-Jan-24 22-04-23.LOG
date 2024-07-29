@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC17_1 Pin=C17-1
+Removed Pin From Net: NetName=NetC14_1 Pin=C17-2
+Removed Member From Class: ClassName=phase Member=C17
+Change Component Comment : Designator=R16 Old Comment=1K New Comment=2.2K
+Change Component Comment : Designator=R21 Old Comment=1K New Comment=2.2K
+Change Component Comment : Designator=C14 Old Comment=1nF New Comment=220nF
+Change Component Comment : Designator=R11 Old Comment=6.8K New Comment=10K
+Change Component Comment : Designator=R12 Old Comment=6.8K New Comment=10K
+Change Component Comment : Designator=R13 Old Comment=6.8K New Comment=10K
+Change Component Comment : Designator=R8 Old Comment=10K New Comment=47K
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=47K
+Change Component Comment : Designator=R10 Old Comment=10K New Comment=47K
+Change Component Comment : Designator=R5 Old Comment=22K New Comment=47K
+Change Component Comment : Designator=R6 Old Comment=22K New Comment=47K
+Change Component Comment : Designator=R7 Old Comment=22K New Comment=47K
+Change Component Comment : Designator=IC3 Old Comment=LM358 New Comment=MCP6002
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetIC3_1
+Added Room: Name=MCU
+Added Room: Name=phase

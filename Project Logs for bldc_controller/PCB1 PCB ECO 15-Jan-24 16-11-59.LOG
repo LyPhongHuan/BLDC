@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=D1 Old Footprint=SOD-123 New Footprint=SOD123
+Change Component Footprint: Designator=D2 Old Footprint=SOD-123 New Footprint=SOD123
+Change Component Footprint: Designator=D3 Old Footprint=SOD-123 New Footprint=SOD123
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SOD-123"; UniqueID = "\MCZWLGTO" ("\MCZWLGTO")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "SOD-123"; UniqueID = "\GPNNKGUZ" ("\GPNNKGUZ")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "SOD-123"; UniqueID = "\CFHXVQRA" ("\CFHXVQRA")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = ""; VariantName = "[No Variations]"

@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=Q1 Old Footprint=SOT23-3 New Footprint=TO-252
+Change Component Footprint: Designator=Q2 Old Footprint=SOT23-3 New Footprint=TO-252
+Change Component Footprint: Designator=Q3 Old Footprint=SOT23-3 New Footprint=TO-252
+Change Component Footprint: Designator=Q4 Old Footprint=SOT23-3 New Footprint=TO-252
+Change Component Footprint: Designator=Q5 Old Footprint=SOT23-3 New Footprint=TO-252
+Change Component Footprint: Designator=Q6 Old Footprint=SOT23-3 New Footprint=TO-252
+Change Component Comment : Designator=Q1 Old Comment=MOSFET New Comment=DD8870
+Change Component Comment : Designator=Q2 Old Comment=MOSFET New Comment=DD8870
+Change Component Comment : Designator=Q3 Old Comment=MOSFET New Comment=DD8870
+Change Component Comment : Designator=Q4 Old Comment=MOSFET New Comment=DD8870
+Change Component Comment : Designator=Q5 Old Comment=MOSFET New Comment=DD8870
+Change Component Comment : Designator=Q6 Old Comment=MOSFET New Comment=DD8870

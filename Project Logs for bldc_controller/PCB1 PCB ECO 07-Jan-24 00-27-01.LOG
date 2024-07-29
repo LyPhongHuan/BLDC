@@ -1,0 +1,216 @@
+Removed Member From Class: ClassName=phase Member=U?
+Change Component Footprint: Designator=C2 Old Footprint=SM-CAP-0805 New Footprint=SM-Cap-1206
+Change Component Footprint: Designator=C4 Old Footprint=SM-CAP-0805 New Footprint=SM-Cap-1206
+Change Component Footprint: Designator=C6 Old Footprint=SM-CAP-0805 New Footprint=SM-Cap-1206
+Change Component Footprint: Designator=U? Old Footprint=SO14 New Footprint=SO16
+Change Component Comment : Designator=C1 Old Comment=1uF New Comment=2.2uF
+Change Component Comment : Designator=C3 Old Comment=1uF New Comment=2.2uF
+Change Component Comment : Designator=C5 Old Comment=1uF New Comment=2.2uF
+Change Component Comment : Designator=C2 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C4 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C6 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=IC? Old Comment=ATMEL 16L New Comment=ATMEGA 16A
+Change Component Comment : Designator=U? Old Comment=LM324 New Comment=CH340G
+Change Component Designator: OldDesignator=IC? NewDesignator=IC4
+Change component parameters: Designator = "U?" ("U?"); Footprint = "SO14"; UniqueID = "\QTEXVOPH" ("\QTEXVOPH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.irf.com/product-info/datasheets/data/ir2110.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "PD60147J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "Pins 4, 8 and 14 are not connected"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "PDIP14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=BT?(SW4_SMD)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=BT?(SW4_SMD)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=BT?(SW4_SMD)
+Add component (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CN-SMD-1206)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CN-SMD-1206)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CN-SMD-1206)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0603)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0603)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CN-SMD-0805)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1uF/300V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(GCT_USB4110-GF-A_REVB)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USB4110-GF-A/Global%20Connector%20Technology/view-part/4001167/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB4110-GF-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/USB4110-GF-A/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB4110-GF-A/Global%20Connector%20Technology/view-part/4001167/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(IN-SMD-0805)
+Add component (AddParameter): Name = "Value"; Value = "150 mH"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=X?(XT-49S/DIP)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetR3_2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetR4_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetR5_2 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetIC1_2 Pin=IC4-2
+Added Pin To Net: NetName=NetIC2_2 Pin=IC4-3
+Added Pin To Net: NetName=NetIC3_2 Pin=IC4-4
+Added Pin To Net: NetName=NetIC1_3 Pin=IC4-16
+Added Pin To Net: NetName=NetIC2_3 Pin=IC4-17
+Added Pin To Net: NetName=NetIC3_3 Pin=IC4-18
+Added Pin To Net: NetName=NetR6_1 Pin=IC4-20
+Added Pin To Net: NetName=GND Pin=IC4-31
+Added Pin To Net: NetName=NetR5_2 Pin=IC4-35
+Added Pin To Net: NetName=NetR4_2 Pin=IC4-36
+Added Pin To Net: NetName=NetR3_2 Pin=IC4-37
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetIC4_20
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=IC4-10
+Added Pin To Net: NetName=+5V Pin=L?-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=DIR Pin=BT?-2
+Added Pin To Net: NetName=DIR Pin=BT?-2
+Added Pin To Net: NetName=DIR Pin=IC4-40
+Added Pin To Net: NetName=DIR Pin=R?-1
+Added Net: Name=DIR
+Added Pin To Net: NetName=DOWN Pin=BT?-2
+Added Pin To Net: NetName=DOWN Pin=BT?-2
+Added Pin To Net: NetName=DOWN Pin=IC4-38
+Added Pin To Net: NetName=DOWN Pin=R?-1
+Added Net: Name=DOWN
+Added Pin To Net: NetName=MCU_Rx Pin=IC4-14
+Added Net: Name=MCU_Rx
+Added Pin To Net: NetName=MCU_Tx Pin=IC4-15
+Added Net: Name=MCU_Tx
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=IC4-30
+Added Pin To Net: NetName=NetC?_2 Pin=IC4-32
+Added Pin To Net: NetName=NetC?_2 Pin=L?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=nRST Pin=IC4-9
+Added Net: Name=nRST
+Added Pin To Net: NetName=UP Pin=BT?-2
+Added Pin To Net: NetName=UP Pin=BT?-2
+Added Pin To Net: NetName=UP Pin=IC4-39
+Added Pin To Net: NetName=UP Pin=R?-1
+Added Net: Name=UP
+Added Pin To Net: NetName=XTAL1 Pin=C?-1
+Added Pin To Net: NetName=XTAL1 Pin=IC4-13
+Added Pin To Net: NetName=XTAL1 Pin=R?-2
+Added Pin To Net: NetName=XTAL1 Pin=X?-1
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=C?-1
+Added Pin To Net: NetName=XTAL2 Pin=IC4-12
+Added Pin To Net: NetName=XTAL2 Pin=R?-1
+Added Pin To Net: NetName=XTAL2 Pin=X?-2
+Added Net: Name=XTAL2
+Added Member To Class: ClassName=MCU Member=Component BT? BUTTON1
+Added Member To Class: ClassName=MCU Member=Component BT? BUTTON1
+Added Member To Class: ClassName=MCU Member=Component BT? BUTTON1
+Added Member To Class: ClassName=phase Member=Component C7 10pF
+Added Member To Class: ClassName=phase Member=Component C8 10pF
+Added Member To Class: ClassName=phase Member=Component C9 10pF
+Added Member To Class: ClassName=MCU Member=Component C? 12pF
+Added Member To Class: ClassName=MCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C? 12pF
+Added Member To Class: ClassName=MCU Member=Component C? 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C? 22uF
+Added Member To Class: ClassName=MCU Member=Component C? 22uF
+Added Member To Class: ClassName=MCU Member=Component C? 22uF
+Added Member To Class: ClassName=MCU Member=Component C? 22uF
+Added Member To Class: ClassName=MCU Member=Component C? 47uF
+Added Member To Class: ClassName=MCU Member=Component C? 22uF
+Added Member To Class: ClassName=MCU Member=Component J? USB4110-GF-A_REVB
+Added Member To Class: ClassName=MCU Member=Component L? 33uH
+Added Member To Class: ClassName=MCU Member=Component R? 10K
+Added Member To Class: ClassName=MCU Member=Component R? 10K
+Added Member To Class: ClassName=MCU Member=Component R? 560K
+Added Member To Class: ClassName=MCU Member=Component R? 10K
+Added Member To Class: ClassName=MCU Member=Component U? CH340G
+Added Member To Class: ClassName=MCU Member=Component X? 16Mhz

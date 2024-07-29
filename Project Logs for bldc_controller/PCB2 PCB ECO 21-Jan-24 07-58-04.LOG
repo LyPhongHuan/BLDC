@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Member From Class: ClassName=phase Member=C6
+Added Room: Name=MCU
+Added Room: Name=phase

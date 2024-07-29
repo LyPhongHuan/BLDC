@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Member From Class: ClassName=MCU Member=C9
+Removed Member From Class: ClassName=MCU Member=C10
+Change Component Footprint: Designator=R2 Old Footprint=RES-SMD-0603 New Footprint=RES-SMD-0805
+Change component parameters: Designator = "X2" ("X2"); Footprint = "XT4 SMD 3225"; UniqueID = "\HEGCOTTP" ("\HEGCOTTP")
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-4
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_7 Pin=X2-3
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetU1_8 Pin=X2-1
+Added Net: Name=NetU1_8
+Added Room: Name=MCU
+Added Room: Name=phase

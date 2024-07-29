@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=MCU_Rx Pin=IC5-2
+Removed Pin From Net: NetName=MCU_Tx Pin=IC5-3
+Removed Pin From Net: NetName=MCU_Tx Pin=LED1-2
+Removed Pin From Net: NetName=MCU_Rx Pin=LED2-2
+Added Component: Designator=R38(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES-SMD-0805)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MCU_Rx Pin=R38-1
+Added Pin To Net: NetName=MCU_Tx Pin=R39-2
+Added Pin To Net: NetName=NetIC5_2 Pin=IC5-2
+Added Pin To Net: NetName=NetIC5_2 Pin=LED2-2
+Added Pin To Net: NetName=NetIC5_2 Pin=R38-2
+Added Net: Name=NetIC5_2
+Added Pin To Net: NetName=NetIC5_3 Pin=IC5-3
+Added Pin To Net: NetName=NetIC5_3 Pin=LED1-2
+Added Pin To Net: NetName=NetIC5_3 Pin=R39-1
+Added Net: Name=NetIC5_3
+Added Member To Class: ClassName=MCU Member=Component R38 1K
+Added Member To Class: ClassName=MCU Member=Component R39 1K
+Added Room: Name=MCU
+Added Room: Name=phase

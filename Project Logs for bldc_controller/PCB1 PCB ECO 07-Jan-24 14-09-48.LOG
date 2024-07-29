@@ -1,0 +1,58 @@
+Removed Member From Class: ClassName=MCU Member=C3
+Removed Member From Class: ClassName=phase Member=C19
+Removed Member From Class: ClassName=phase Member=C24
+Removed Member From Class: ClassName=phase Member=C26
+Removed Member From Class: ClassName=phase Member=C31
+Removed Member From Class: ClassName=phase Member=C33
+Removed Member From Class: ClassName=phase Member=C37
+Removed Member From Class: ClassName=MCU Member=IC3
+Removed Member From Class: ClassName=phase Member=IC6
+Removed Member From Class: ClassName=MCU Member=R16
+Removed Member From Class: ClassName=MCU Member=R19
+Removed Member From Class: ClassName=phase Member=R25
+Removed Member From Class: ClassName=phase Member=R32
+Removed Member From Class: ClassName=phase Member=R35
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Added Member To Class: ClassName=phase Member=Component C3 16V/1000uF
+Added Member To Class: ClassName=phase Member=Component C4 16V/1000uF
+Added Member To Class: ClassName=phase Member=Component C5 16V/1000uF
+Added Member To Class: ClassName=phase Member=Component C6 16V/1000uF
+Added Member To Class: ClassName=phase Member=Component C8 10uF
+Added Member To Class: ClassName=phase Member=Component C10 10pF
+Added Member To Class: ClassName=phase Member=Component C11 10pF
+Added Member To Class: ClassName=phase Member=Component C12 1uF
+Added Member To Class: ClassName=phase Member=Component C15 10uF
+Added Member To Class: ClassName=phase Member=Component C16 1nF
+Added Member To Class: ClassName=phase Member=Component C17 100pF
+Added Member To Class: ClassName=MCU Member=Component C18 1uF
+Added Member To Class: ClassName=MCU Member=Component C20 12pF
+Added Member To Class: ClassName=MCU Member=Component C21 12pF
+Added Member To Class: ClassName=MCU Member=Component C22 22uF
+Added Member To Class: ClassName=MCU Member=Component C23 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C25 22uF
+Added Member To Class: ClassName=MCU Member=Component C27 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C28 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C29 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C30 10nF
+Added Member To Class: ClassName=MCU Member=Component C36 10uF
+Added Member To Class: ClassName=phase Member=Component IC3 LM358
+Added Member To Class: ClassName=phase Member=Component IC4 IR2101S
+Added Member To Class: ClassName=MCU Member=Component IC5 CH340G
+Added Member To Class: ClassName=MCU Member=Component IC7 MP1484
+Added Member To Class: ClassName=MCU Member=Component LED4 LED SMD
+Added Member To Class: ClassName=phase Member=Component R17 1K
+Added Member To Class: ClassName=phase Member=Component R20 0.15R
+Added Member To Class: ClassName=phase Member=Component R21 1K
+Added Member To Class: ClassName=phase Member=Component R22 22K
+Added Member To Class: ClassName=phase Member=Component R23 100R
+Added Member To Class: ClassName=MCU Member=Component R26 1K
+Added Member To Class: ClassName=MCU Member=Component R27 22R
+Added Member To Class: ClassName=MCU Member=Component R28 22R
+Added Member To Class: ClassName=MCU Member=Component R29 560K
+Added Member To Class: ClassName=MCU Member=Component R30 10K
+Added Member To Class: ClassName=MCU Member=Component R31 1K
+Added Member To Class: ClassName=MCU Member=Component R33 10K
+Added Member To Class: ClassName=MCU Member=Component R36 10K
+Added Room: Name=MCU
+Added Room: Name=phase
